@@ -6,10 +6,12 @@
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 Навыки и технологии
+
 Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 Проекты
+
 Проект 1: тест веб-приложения для учителей от Skyeng
 
 Что нужно было сделать:
@@ -46,3 +48,10 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 Контактная информация
 Email: name@email.com
 LinkedIn: https://www.linkedin.com/in/username/
+
+
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
